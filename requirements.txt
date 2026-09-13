@@ -1,0 +1,6 @@
+streamlit
+pandas
+vaderSentiment
+feedparser
+requests
+beautifulsoup4
